@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="tab_1">One</string>
+    <string name="tab_2">Two</string>
+    <string name="tab_3">Three</string>
+    <string name="tab_4">Four</string>
+    <string name="tab_5">Five</string>
+</resources>

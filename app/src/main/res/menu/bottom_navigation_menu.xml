@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_one"
+        android:icon="@drawable/ic_add_circle_black"
+        android:title="@string/tab_1" />
+
+    <item
+        android:id="@+id/tab_two"
+        android:icon="@drawable/ic_add_circle_black"
+        android:title="@string/tab_2" />
+
+    <item
+        android:id="@+id/tab_three"
+        android:icon="@drawable/ic_add_circle_black"
+        android:title="@string/tab_3" />
+
+    <item
+        android:id="@+id/tab_four"
+        android:icon="@drawable/ic_add_circle_black"
+        android:title="@string/tab_4" />
+
+    <item
+        android:id="@+id/tab_five"
+        android:icon="@drawable/ic_add_circle_black"
+        android:title="@string/tab_5" />
+
+</menu>
